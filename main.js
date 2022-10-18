@@ -22,8 +22,8 @@ fetch("http://api.travelpayouts.com/v1/flight_search", {
     body: {
         "signature": "deb5b02159898a6ab6f120624fa2f72c",
         "marker": "376519",
-        "host": "https://avia-c6aa9.web.app/",
-        "user_ip": "168.0.54.12",
+        "host": "https://634e8015a71b5c3dae23463e--effulgent-starship-0249c9.netlify.app/",
+        "user_ip": "5.100.193.772",
         "locale": "ru",
         "trip_class": "Y",
         "passengers": {
